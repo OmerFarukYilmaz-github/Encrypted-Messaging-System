@@ -89,7 +89,7 @@ namespace EncryptedMesaggingSystem
                 }
                 else if (check_Spn_UCEnc.Checked == false && checkSha_UCEnc.Checked == false) { MessageBox.Show("Select the encryption method you want ", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Exclamation); }
 
-                
+
                 encrypted_Text = txt_CipherText_UCEnc.Text;
                 txt_PlainText_UCEnc.Text = "";
                 

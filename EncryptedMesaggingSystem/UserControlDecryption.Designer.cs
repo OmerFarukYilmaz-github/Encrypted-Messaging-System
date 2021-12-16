@@ -174,7 +174,6 @@ namespace EncryptedMesaggingSystem
             this.Controls.Add(this.label1);
             this.Name = "UserControlDecryption";
             this.Size = new System.Drawing.Size(835, 498);
-            this.Load += new System.EventHandler(this.UserControlDecryption_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);

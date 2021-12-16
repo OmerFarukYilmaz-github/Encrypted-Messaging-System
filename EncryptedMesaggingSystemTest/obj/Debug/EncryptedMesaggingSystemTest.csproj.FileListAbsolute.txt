@@ -18,3 +18,23 @@ C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSys
 C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.csproj.CopyComplete
 C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.dll
 C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.pdb
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\EncryptedMesaggingSystemTest.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\EncryptedMesaggingSystemTest.pdb
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\EncryptedMesaggingSystem.exe
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\EncryptedMesaggingSystem.pdb
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\EncryptedMesaggingSystem.exe.config
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.csprojAssemblyReference.cache
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.csproj.CopyComplete
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.dll
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystemTest\obj\Debug\EncryptedMesaggingSystemTest.pdb

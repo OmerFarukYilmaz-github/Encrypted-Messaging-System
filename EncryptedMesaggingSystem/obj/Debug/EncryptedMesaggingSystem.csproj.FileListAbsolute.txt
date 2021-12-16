@@ -11,3 +11,16 @@ C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSys
 C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.csproj.CoreCompileInputs.cache
 C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.exe
 C:\Users\O.F.Y\source\C# Projeler\EncryptedMesaggingSystem\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.pdb
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\bin\Debug\EncryptedMesaggingSystem.exe.config
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\bin\Debug\EncryptedMesaggingSystem.exe
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\bin\Debug\EncryptedMesaggingSystem.pdb
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.csprojAssemblyReference.cache
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.Form1.resources
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.Properties.Resources.resources
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.UserControlChat.resources
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.UserControl_Encryption.resources
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.UserControlDecryption.resources
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.csproj.GenerateResource.cache
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.exe
+C:\Users\O.F.Y\Documents\GitHub\Encrypted-Messaging-System\EncryptedMesaggingSystem\obj\Debug\EncryptedMesaggingSystem.pdb

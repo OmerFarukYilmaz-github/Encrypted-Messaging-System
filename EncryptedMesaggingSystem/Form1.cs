@@ -36,7 +36,7 @@ namespace EncryptedMesaggingSystem
             sidePanel.Top = btn_EncryptMenu.Top;
             userControl_Encryption1.BringToFront();
             userControl_Encryption1.txt_PlainText_UCEnc.Text = userControlDecryption1.decrypted_Text;
-            userControl_Encryption1.txt_CipherText_UCEnc.Text = "";
+        //    userControl_Encryption1.txt_CipherText_UCEnc.Text = "";
 
         }
 
@@ -45,8 +45,8 @@ namespace EncryptedMesaggingSystem
             sidePanel.Height = btn_DecryptionMenu.Height;
             sidePanel.Top = btn_DecryptionMenu.Top;
             userControlDecryption1.BringToFront();
-            userControlDecryption1.txt_EncryptedText_UCDec.Text = userControl_Encryption1.encrypted_Text;
-            userControlDecryption1.txt_EncryptedText_UCDec.Text = userControlChat1.txt_IncomingText_UCChat.Text;
+            userControlDecryption1.txt_EncryptedText_UCDec.Text = userControl_Encryption1.txt_CipherText_UCEnc.Text;
+           if(userControlChat1.txt_IncomingText_UCChat.Text!="") userControlDecryption1.txt_EncryptedText_UCDec.Text = userControlChat1.txt_IncomingText_UCChat.Text;
         }
 
         private void btn_Chat_Click(object sender, EventArgs e)

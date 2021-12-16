@@ -17,11 +17,7 @@ namespace EncryptedMesaggingSystem
         {
             InitializeComponent();
         }
-        private void UserControlDecryption_Load(object sender, EventArgs e)
-        {
-            txt_EncryptedText_UCDec.Text = encrypted_Text;
-           
-        }
+     
 
         #region Checkboxes
         private void check_Spn_UCDec_CheckedChanged(object sender, EventArgs e)
