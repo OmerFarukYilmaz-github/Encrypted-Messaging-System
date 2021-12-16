@@ -3,12 +3,15 @@ using System.Text;
 
 namespace EncryptedMesaggingSystem
 {
-    class SPN_encryption
+   public class SPN_encryption
     {
         private string plainText, bin_plainText, key, bin_Key, s_Boxes = "", cipherText;
 
 
         #region Constructors
+        public SPN_encryption()
+        {
+        }
         public SPN_encryption(string key)
         {
             this.key = key;
@@ -23,9 +26,10 @@ namespace EncryptedMesaggingSystem
         }
         #endregion
 
+
         #region Convert to Binary/ to String
         //Convert string to binary
-        private string stringToBinary(string data)
+        public string stringToBinary(string data)
         {
             string binary = "";
             for (int i = 0; i < data.Length; i++)
@@ -61,12 +65,13 @@ namespace EncryptedMesaggingSystem
 
         #endregion
 
+
         #region XOR
-        private string xor(string text, string key)
+        public string xor(string text, string key)
         {
             string bin_xor = "";
             int xor = 0;
-            for (int i = 0; i < 16; i++)// Do xor for every character
+            for (int i = 0; i < text.Length; i++)// Do xor for every character
             {
                 xor = Convert.ToInt32(text[i]) ^ Convert.ToInt32(key[i]);
                 bin_xor += xor.ToString();
@@ -75,34 +80,36 @@ namespace EncryptedMesaggingSystem
         }
         #endregion
 
+
         #region Substitution
-        private string substitution(string data)
+        public string substitution(string data)
         {
-            string p_Data = "";
-            p_Data += data[2]; p_Data += data[8]; p_Data += data[12]; p_Data += data[5];
-            p_Data += data[9]; p_Data += data[0]; p_Data += data[14]; p_Data += data[4];
-            p_Data += data[11]; p_Data += data[1]; p_Data += data[15]; p_Data += data[6];
-            p_Data += data[3]; p_Data += data[10]; p_Data += data[7]; p_Data += data[13];
+            string s_Data = "";
+            s_Data += data[2];  s_Data += data[8];  s_Data += data[12]; s_Data += data[5];
+            s_Data += data[9];  s_Data += data[0];  s_Data += data[14]; s_Data += data[4];
+            s_Data += data[11]; s_Data += data[1];  s_Data += data[15]; s_Data += data[6];
+            s_Data += data[3];  s_Data += data[10]; s_Data += data[7];  s_Data += data[13];
 
 
-            return p_Data;
+            return s_Data;
         }
 
-        private string r_Substitution(string data)
+        public string r_Substitution(string data)
         {
-            string rp_Data = "";
-            rp_Data += data[5]; rp_Data += data[9]; rp_Data += data[0]; rp_Data += data[12];
-            rp_Data += data[7]; rp_Data += data[3]; rp_Data += data[11]; rp_Data += data[14];
-            rp_Data += data[1]; rp_Data += data[4]; rp_Data += data[13]; rp_Data += data[8];
-            rp_Data += data[2]; rp_Data += data[15]; rp_Data += data[6]; rp_Data += data[10];
+            string rs_Data = "";
+            rs_Data += data[5]; rs_Data += data[9];  rs_Data += data[0];  rs_Data += data[12];
+            rs_Data += data[7]; rs_Data += data[3];  rs_Data += data[11]; rs_Data += data[14];
+            rs_Data += data[1]; rs_Data += data[4];  rs_Data += data[13]; rs_Data += data[8];
+            rs_Data += data[2]; rs_Data += data[15]; rs_Data += data[6];  rs_Data += data[10];
 
 
 
 
-            return rp_Data;
+            return rs_Data;
 
         }
         #endregion
+
 
         #region encrypt-decrypt
         public string encrypt()

@@ -4,15 +4,22 @@ using System.Security.Cryptography;
 
 namespace EncryptedMesaggingSystem
 {
-    class SHA_encryption
+    public class SHA_encryption
     {
         private string plain_Text;
+
+
         #region Constructor
+        public SHA_encryption()
+        {
+        }
         public SHA_encryption(string plain_Text)
         {
             this.plain_Text = plain_Text;
         }
         #endregion
+
+
 
         #region Encrypt
         public string encrypt()
